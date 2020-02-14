@@ -1,0 +1,6 @@
+C:\Users\djems\source\repos\ShowSymbols\ShowSymbols\bin\Debug\ShowSymbols.exe.config
+C:\Users\djems\source\repos\ShowSymbols\ShowSymbols\bin\Debug\ShowSymbols.exe
+C:\Users\djems\source\repos\ShowSymbols\ShowSymbols\bin\Debug\ShowSymbols.pdb
+C:\Users\djems\source\repos\ShowSymbols\ShowSymbols\obj\Debug\ShowSymbols.csprojAssemblyReference.cache
+C:\Users\djems\source\repos\ShowSymbols\ShowSymbols\obj\Debug\ShowSymbols.exe
+C:\Users\djems\source\repos\ShowSymbols\ShowSymbols\obj\Debug\ShowSymbols.pdb
